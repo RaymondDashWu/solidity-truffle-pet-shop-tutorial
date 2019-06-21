@@ -1,3 +1,5 @@
+// BUG: All adoptees are listed as success rather than option to adopt
+
 App = {
   web3Provider: null,
   contracts: {},
